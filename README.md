@@ -1,8 +1,8 @@
 | ---------------------------------------------------------------| <br>
-|       Automação de Pacientes a Dar Alta - SISREG & G-HOSP      | <br>
-|                 Versão 1.0 - Setembro de 2024                  | <br>
-|                       Autor: MrPaC6689                         | <br>
-|              Desenvolvido com o apoio do ChatGPT               | <br>
+|--------Automação de Pacientes a Dar Alta - SISREG & G-HOSP-----| <br>
+|------------------Versão 1.0 - Setembro de 2024-----------------| <br>
+|-----------------------Autor: MrPaC6689-------------------------| <br>
+|---------------Desenvolvido com o apoio do ChatGPT--------------| <br>
 | ---------------------------------------------------------------| <br>
 
 Descrição
