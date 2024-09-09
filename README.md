@@ -1,9 +1,9 @@
-| ---------------------------------------------------------------| <br>
-|--------Automação de Pacientes a Dar Alta - SISREG & G-HOSP-----| <br>
-|------------------Versão 1.0 - Setembro de 2024-----------------| <br>
-|-----------------------Autor: MrPaC6689-------------------------| <br>
-|---------------Desenvolvido com o apoio do ChatGPT--------------| <br>
-| ---------------------------------------------------------------| <br>
+
+Automação de Pacientes a Dar Alta - SISREG & G-HOSP
+Versão 1.0 - Setembro de 2024
+Autor: MrPaC6689
+Desenvolvido com o apoio do ChatGPT
+
 
 Descrição
 Este programa automatiza o processo de extração de informações de pacientes internados no sistema SISREG e G-HOSP,  comparando os dados para identificar os pacientes que podem ser dados como alta. A automação utiliza Selenium para navegação automatizada e manipulação de páginas da web.
